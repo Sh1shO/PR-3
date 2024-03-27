@@ -5,33 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7082f042-9dd4-47ec-a605-67eafb947f43" name="Changes" comment="ПР №3">
-      <change afterPath="$PROJECT_DIR$/.idea/djangoProject2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Myfirstproject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Myfirstproject/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Myfirstproject/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Myfirstproject/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Myfirstproject/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Myfirstproject/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Myfirstproject/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject2/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject2/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject2/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject2/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/first.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/museum1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/museum2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/museum3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/museum4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/museum5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/first.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "django.template.preview.state": "SHOW_EDITOR",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -129,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711506364053</updated>
-      <workItem from="1711506366658" duration="7306000" />
+      <workItem from="1711506366658" duration="7784000" />
     </task>
     <servers />
   </component>
